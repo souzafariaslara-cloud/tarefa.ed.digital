@@ -1,8 +1,8 @@
 :root{
     --cor-fundo:#1e003a; 
     --cor-texto:black;
-    --cor-principal:white;
-    --cor-secundaria:white;
+    --cor-principal:rgb(166, 81, 187);
+    --cor-secundaria:rgb(195, 133, 231);
     --cor-hover:#f6a8fd;
     --cor-superfície:white;
     --cor-card:rgb(195, 133, 231);
